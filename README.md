@@ -255,3 +255,4 @@ PR are always welcome!
   * [ ] Phantom Ray-Hair Intersector
 * [x] Example bi-directional path tracing renderer by @tatsy.
 
+New data added
